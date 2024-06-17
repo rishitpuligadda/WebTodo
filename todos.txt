@@ -1,0 +1,3 @@
+cycle 
+do 10 pushups
+go on a walk
